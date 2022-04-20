@@ -1,0 +1,14 @@
+C:\Users\zacha\LaunchCode\Unit2\ch2DataTypes\exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\numericTypes.exe
+C:\Users\zacha\LaunchCode\Unit2\ch2DataTypes\exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\numericTypes.deps.json
+C:\Users\zacha\LaunchCode\Unit2\ch2DataTypes\exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\numericTypes.runtimeconfig.json
+C:\Users\zacha\LaunchCode\Unit2\ch2DataTypes\exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\numericTypes.runtimeconfig.dev.json
+C:\Users\zacha\LaunchCode\Unit2\ch2DataTypes\exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\numericTypes.dll
+C:\Users\zacha\LaunchCode\Unit2\ch2DataTypes\exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\numericTypes.pdb
+C:\Users\zacha\LaunchCode\Unit2\ch2DataTypes\exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\numericTypes.csproj.AssemblyReference.cache
+C:\Users\zacha\LaunchCode\Unit2\ch2DataTypes\exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\numericTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zacha\LaunchCode\Unit2\ch2DataTypes\exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\numericTypes.AssemblyInfoInputs.cache
+C:\Users\zacha\LaunchCode\Unit2\ch2DataTypes\exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\numericTypes.AssemblyInfo.cs
+C:\Users\zacha\LaunchCode\Unit2\ch2DataTypes\exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\numericTypes.csproj.CoreCompileInputs.cache
+C:\Users\zacha\LaunchCode\Unit2\ch2DataTypes\exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\numericTypes.dll
+C:\Users\zacha\LaunchCode\Unit2\ch2DataTypes\exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\numericTypes.pdb
+C:\Users\zacha\LaunchCode\Unit2\ch2DataTypes\exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\numericTypes.genruntimeconfig.cache
